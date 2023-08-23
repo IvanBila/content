@@ -1,0 +1,9 @@
+- Bible
+- Ship it
+- Too Soon Old Too Late Smart
+- The Pragmatic Programmer
+- Don't Make Me Think
+- Men on Strike - Helen Smith
+- How to win at the Sport of Business: If I can do it, you can do it - Mark Cuban
+- Clean Code - Robert C. Martin
+- Managing Oneself - Peter Drucker
